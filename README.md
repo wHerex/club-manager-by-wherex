@@ -3,7 +3,7 @@
 Club manager help with organize staff members, stock state, and events(incoming feature).
 
 ### Login form
-Build with Spring Security, password encrypted in datebase.
+Built with Spring Security, password encrypted in datebase.
 
 ![login](https://user-images.githubusercontent.com/7942176/50617245-6caf2880-0eec-11e9-968a-5504bbb32f4a.PNG)
 
