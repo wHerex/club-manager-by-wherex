@@ -14,7 +14,7 @@ Spring+Hibernate
 
 ![stocklg](https://user-images.githubusercontent.com/7942176/50617246-6caf2880-0eec-11e9-86a1-e62653630a51.PNG)
 
-## Incoming feature
+## Upcoming feature
 - Events with calendar represent in View
 - REST Api for Events 
 
